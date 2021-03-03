@@ -6,7 +6,7 @@
  * Instructor: Jack Winters
  * Spring 2021
  *
- * Converts given latitude and longitude in degrees to H/M/S format.
+ * Converts given latitude and longitude in degrees to DMS format.
  */
 
 #include <stdio.h>
