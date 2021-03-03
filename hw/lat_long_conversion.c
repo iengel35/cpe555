@@ -1,6 +1,6 @@
 
 /* 
- * CPE 555 HW #1
+ * CPE 555 HW #3
  * Stevens Institute of Technology
  * Code by: Izy Engel
  * Instructor: Jack Winters
