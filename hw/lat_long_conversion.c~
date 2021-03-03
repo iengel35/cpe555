@@ -1,0 +1,36 @@
+
+/* 
+ * Example program for CPE-555 Real-Time and Embedded Systems
+ * Stevens Institute of Technology
+ * Original Code by:Richard Prego
+ * Instructor: Jack Winters
+ * Spring 2021
+ */
+
+#include <stdio.h>
+
+/* declare array of numbers (integer type) */
+//int numbers[4];
+
+/* declare functions that are defined below */
+//void populate_array();
+//int check_for_even(int number);
+
+/* main function */
+int main()
+{
+  /* declare local variable to use as a flag */
+  double lat, lon;
+
+  /* print a welcome message */
+  printf("Enter coordinates in decimal form:\n");
+  printf("Latitude: ");
+  scanf("%lf", &lat);
+  printf("Longitude: ");
+  scanf("%lf", &lon);
+
+  printf("your lat: %f, your long: %f\n", lat, lon);
+  
+  return 0;
+}
+
